@@ -7,4 +7,5 @@ for i in range(10000):
     f.writelines(str(x))
     f.writelines("\n")
     
+    
 f.close()

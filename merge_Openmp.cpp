@@ -73,6 +73,7 @@ void mergeSort(double array[], int l, int r) {
 }
 
 
+
 int main (void) {
     ifstream ifs;  
 	ifs.open("rand_10,000.csv");	// ファイルオープン 開くファイルを変更する場合はここを変える。
