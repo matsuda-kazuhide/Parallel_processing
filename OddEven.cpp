@@ -12,7 +12,7 @@
 using namespace std;
 
 
-//奇偶転置ソート
+//ソートを行う関数
 void OddEven(double nums[], int n){
     bool issoted = false;
     while( !issoted ){
