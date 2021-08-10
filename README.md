@@ -4,8 +4,11 @@ C++によるソーティングの並列分散処理
 ## ファイルの説明<br>
 merge.cpp：通常のマージソートを行うコード<br>
 merge_Openmp.cpp：並列処理を行うマージソートのコード<br>
+OddEven.cpp：通常の奇遇転置ソートを行うコード<br>
+P-OddEven.cpp：並列処理を行う奇遇転置ソートのコード<br>
 rand.py：数列を作成したpythonのコード<br>
 rand_10,000.csv：rand.pyで作成した、数列の長さが10,000のファイル<br>
+rand_50,000.csv：rand.pyで作成した、数列の長さが50,000のファイル<br>
 rand_1,000,000csv：rand.pyで作成した、数列の長さが1,000,000のファイル<br>
 
 ## 実行環境<br>
