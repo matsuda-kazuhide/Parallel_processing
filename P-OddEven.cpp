@@ -1,4 +1,4 @@
-//openmpを使った奇遇転置ソート
+//openmpを使った並列処理の奇遇転置ソート
 
 #include <omp.h>
 #include <iostream>
