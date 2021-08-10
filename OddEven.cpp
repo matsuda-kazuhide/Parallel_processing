@@ -1,4 +1,4 @@
-//普通の奇遇転置ソート
+//通常の奇遇転置ソート
 
 #include <iostream>
 #include <fstream>
